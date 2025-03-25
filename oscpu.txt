@@ -1,0 +1,46 @@
+
+Macintosh; Intel Mac OS X
+Macintosh; Intel Mac OS X 10.15
+Macintosh; Intel Mac OS X 10_13_6
+Macintosh; Intel Mac OS X 10_14_6
+Macintosh; Intel Mac OS X 10_15_4
+Macintosh; Intel Mac OS X 10_15_6
+Macintosh; Intel Mac OS X 10_15_7
+Macintosh; Intel Mac OS X 10_5_2
+Macintosh; Intel Mac OS X 10_5_3
+Macintosh; Intel Mac OS X 10_5_4
+Macintosh; Intel Mac OS X 10_5_5
+Macintosh; Intel Mac OS X 10_5_6
+Macintosh; Intel Mac OS X 10_5_7
+Macintosh; Intel Mac OS X 10_5_8
+Macintosh; Intel Mac OS X 10_6
+Macintosh; Intel Mac OS X 10_6_1
+Macintosh; Intel Mac OS X 10_6_2
+Macintosh; Intel Mac OS X 10_6_3
+Macintosh; Intel Mac OS X 10_6_4
+Macintosh; Intel Mac OS X 10_6_5
+Macintosh; Intel Mac OS X 10_6_6
+Macintosh; Intel Mac OS X 10_6_7
+Macintosh; Intel Mac OS X 10_6_8
+Macintosh; Intel Mac OS X 10_7
+Macintosh; Intel Mac OS X 10_7_3
+Macintosh; Intel Mac OS X 10_9_3
+Macintosh; Mac OS X 10_5_7
+Macintosh; Mac OS X 10_6_1
+Windows
+Windows 98
+Windows ME
+Windows NT 10.0
+Windows NT 10.0; Win64; x64
+Windows NT 5.0
+Windows NT 5.1
+Windows NT 6.1
+Windows NT 6.1; Win64; x64
+Windows; Windows NT 5.0
+Windows; Windows NT 5.1
+Windows; Windows NT 5.2
+Windows; Windows NT 6.0
+Windows; Windows NT 6.1
+X11
+X11; Linux i686
+X11; Linux x86_64
